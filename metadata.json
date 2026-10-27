@@ -1,0 +1,6 @@
+{
+  "name": "Royal Battle - 3D Destruction Chess",
+  "description": "A realistic 3D chess game in browser featuring sculpted pieces, citadel atmosphere, smooth physics movement, and 3D capture destruction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
